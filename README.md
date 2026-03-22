@@ -1,2 +1,2 @@
-# -kings-coins-
+-kings-coins-
 Online slots and entertainment 
