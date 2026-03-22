@@ -1,0 +1,23 @@
+{
+  "name": "fiends-coins-slots",
+  "version": "1.0.0",
+  "description": "Neon-themed online slot machine game with real gameplay mechanics",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slots",
+    "game",
+    "casino",
+    "neon",
+    "gambling"
+  ],
+  "author": "KingsCoins",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KingsCoins/-kings-coins-.git"
+  }
+}
